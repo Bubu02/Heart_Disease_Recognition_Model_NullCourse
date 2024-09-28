@@ -22,24 +22,24 @@ The heart disease prediction model is designed to predict whether a person is li
 git clone https://github.com/your-username/heart-disease-prediction.git
 
 Install the required dependencies:
-Copy code
-pip install -r requirements.txt
-Run the GUI:
-Copy code
-python gui.py
-Files
-gui.py: The main GUI application.
-heart_disease_model.joblib: The saved model used for predictions.
-scaler.joblib: The scaler used to normalize data.
-README.md: This file.
-notes.txt: Course notes and explanations.
-requirements.txt: List of all dependencies needed to run the project.
-Advanced Version
+
+`pip install -r requirements.txt`
+
+### Files
+* `gui.py:` The main GUI application.
+* `heart_disease_model.joblib:` The saved model used for predictions.
+* `scaler.joblib:` The scaler used to normalize data.
+* `README.md:` This file.
+* `notes.txt:` Course notes and explanations.
+* `requirements.txt:` List of all dependencies needed to run the project.
+* 
+### Advanced Version
 For a more advanced version of this project with a Flask web app and MySQL integration, you can visit the following repository: Link to Advanced Project.
 
-Common Issues
-There might be some mispronunciations in the course videos, but all concepts are clearly explained.
-The simple GUI design was chosen to keep the course focused on machine learning, but advanced users can explore the Flask-based version.
-Suggestions
-Watch the video tutorials first, then follow along with the coding.
-Source code with notes is available in this repository for easy reference.
+### Common Issues
+* There might be some mispronunciations in the course videos, but all concepts are clearly explained.
+* The simple GUI design was chosen to keep the course focused on machine learning, but advanced users can explore the Flask-based version.
+
+### Suggestions
+* Watch the video tutorials first, then follow along with the coding.
+* Source code with notes is available in this repository for easy reference.
