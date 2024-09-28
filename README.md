@@ -19,7 +19,7 @@ The heart disease prediction model is designed to predict whether a person is li
 ## Installation and Setup
 1. Clone the repository:
 
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/Bubu02/Heart_disease_Recognition_Model_NullCourse.git
 
 Install the required dependencies:
 
