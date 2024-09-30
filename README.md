@@ -13,8 +13,9 @@ The heart disease prediction model is designed to predict whether a person is li
 * Basic Design: The GUI is simple, but you can find a more advanced version with Flask and MySQL in the linked repository below.
 
 > [!IMPORTANT]
-> The model is made in September 2024, so there might be version mismatches if you're running this on a different version of the software, which could cause errors. This is not my fault.
-> This project is purely for educational purposes and should not be used in real-life medical scenarios. Always consult qualified healthcare professionals for medical advice.
+> * The model is made in September 2024, so there might be version mismatches if you're running this on a different version of the software, which could cause errors. This is not my fault.
+
+> * This project is purely for educational purposes and should not be used in real-life medical scenarios. Always consult qualified healthcare professionals for medical advice.
 
 ## Installation and Setup
 1. Clone the repository:
@@ -36,9 +37,10 @@ Install the required dependencies:
 ### Advanced Version
 For a more advanced version of this project with a Flask web app and MySQL integration, you can visit the following repository: Link to Advanced Project.
 
-> [!Common Issues]
-> There might be some mispronunciations in the course videos, but all concepts are clearly explained.
-> The simple GUI design was chosen to keep the course focused on machine learning, but advanced users can explore the Flask-based version.
+> [!WARNING]
+> * There might be some mispronunciations in the course videos, but all concepts are clearly explained.
+
+> * The simple GUI design was chosen to keep the course focused on machine learning, but advanced users can explore the Flask-based version.
 
 ### Suggestions
 * Watch the video tutorials first, then follow along with the coding.
