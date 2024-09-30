@@ -14,7 +14,6 @@ The heart disease prediction model is designed to predict whether a person is li
 
 > [!IMPORTANT]
 > * The model is made in September 2024, so there might be version mismatches if you're running this on a different version of the software, which could cause errors. This is not my fault.
-
 > * This project is purely for educational purposes and should not be used in real-life medical scenarios. Always consult qualified healthcare professionals for medical advice.
 
 ## Installation and Setup
@@ -39,7 +38,6 @@ For a more advanced version of this project with a Flask web app and MySQL integ
 
 > [!WARNING]
 > * There might be some mispronunciations in the course videos, but all concepts are clearly explained.
-
 > * The simple GUI design was chosen to keep the course focused on machine learning, but advanced users can explore the Flask-based version.
 
 ### Suggestions
