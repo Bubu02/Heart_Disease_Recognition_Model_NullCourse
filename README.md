@@ -32,9 +32,10 @@ Install the required dependencies:
 * `README.md:` This file.
 * `notes.txt:` Course notes and explanations.
 * `requirements.txt:` List of all dependencies needed to run the project.
-* 
-### Advanced Version
-For a more advanced version of this project with a Flask web app and MySQL integration, you can visit the following repository: Link to Advanced Project.
+  
+> [!TIP]
+> ### Advanced Version
+> For a more advanced version of this project with a Flask web app and MySQL integration, you can visit the following repository: Link to Advanced Project.
 
 > [!WARNING]
 > * There might be some mispronunciations in the course videos, but all concepts are clearly explained.
