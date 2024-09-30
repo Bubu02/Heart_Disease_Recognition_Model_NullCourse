@@ -1,4 +1,4 @@
-# Heart Disease Prediction Model
+# Heart Disease Prediction Model :shipit:
 This repository contains the Heart Disease Prediction Model developed for educational purposes as part of a tutorial course. The project demonstrates how machine learning models can be used for binary classification tasks such as predicting heart disease. The course includes step-by-step guides on everything from data loading to building and testing the model, as well as a simple GUI built using Tkinter.
 
 ## Project Overview
