@@ -38,8 +38,7 @@ Install the required dependencies:
   
 > [!TIP]
 > ### Advanced Version
-> For a more advanced version of this project with a Flask web app and MySQL integration, you can visit the following repository: [Link to Advanced Project] (https://github.com/Bubu02/Heart_Disease_Recognition_Model_NullCourse.git)
-
+> For a more advanced version of this project with a Flask web app and MySQL integration, you can visit the following repository: [Link to Advanced Project](https://github.com/Bubu02/Heart_Disease_Recognition_Model_NullCourse.git)
 > ### Suggestions
 > * Watch the video tutorials first, then follow along with the coding.
 > * Source code with notes is available in this repository for easy reference.
