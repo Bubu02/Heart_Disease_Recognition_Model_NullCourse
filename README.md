@@ -1,10 +1,10 @@
-# Heart Disease Prediction Model :shipit:
+# :shipit: Heart Disease Prediction Model :anatomical_heart:
 This repository contains the Heart Disease Prediction Model developed for educational purposes as part of a tutorial course. The project demonstrates how machine learning models can be used for binary classification tasks such as predicting heart disease. The course includes step-by-step guides on everything from data loading to building and testing the model, as well as a simple GUI built using Tkinter.
 
-## Project Overview
+## :seedling: Project Overview
 The heart disease prediction model is designed to predict whether a person is likely to have heart disease based on various medical features. This model was created using Scikit-learn, and the dataset has been carefully processed for demonstration purposes.
 
-### Key Features
+### :star2: Key Features
 * Model: A machine learning model trained using various features such as age, cholesterol, and blood pressure.
 * GUI: A Tkinter-based GUI to make heart disease predictions based on user input.
 * Preprocessing: Data normalization using MinMaxScaler.
@@ -25,7 +25,7 @@ Install the required dependencies:
 
 `pip install -r requirements.txt`
 
-### Files
+### :card_index_dividers: Files
 * `gui.py:` The main GUI application.
 * `heart_disease_model.joblib:` The saved model used for predictions.
 * `scaler.joblib:` The scaler used to normalize data.
@@ -41,6 +41,7 @@ Install the required dependencies:
 > * There might be some mispronunciations in the course videos, but all concepts are clearly explained.
 > * The simple GUI design was chosen to keep the course focused on machine learning, but advanced users can explore the Flask-based version.
 
-### Suggestions
-* Watch the video tutorials first, then follow along with the coding.
-* Source code with notes is available in this repository for easy reference.
+> [!TIP]
+> ### Suggestions
+> * Watch the video tutorials first, then follow along with the coding.
+> * Source code with notes is available in this repository for easy reference.
